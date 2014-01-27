@@ -1,7 +1,7 @@
 package CountryGamer_PEforPC.Blocks;
 
 import net.minecraft.item.Item;
-import CountryGamer_Core.BlockCropBase;
+import CountryGamer_Core.Blocks.BlockCropBase;
 import CountryGamer_PEforPC.PEforPC;
 
 public class BlockBeetroot extends BlockCropBase {

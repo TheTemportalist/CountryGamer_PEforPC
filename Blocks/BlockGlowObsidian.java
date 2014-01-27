@@ -5,7 +5,7 @@ import java.util.Random;
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
 import net.minecraft.item.Item;
-import CountryGamer_Core.BlockBase;
+import CountryGamer_Core.Blocks.BlockBase;
 
 public class BlockGlowObsidian extends BlockBase {
 

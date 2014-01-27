@@ -10,7 +10,7 @@ import net.minecraft.tileentity.TileEntity;
 import net.minecraft.tileentity.TileEntityMobSpawner;
 import net.minecraft.util.Icon;
 import net.minecraft.world.World;
-import CountryGamer_Core.BlockContainerBase;
+import CountryGamer_Core.Blocks.BlockContainerBase;
 import CountryGamer_PEforPC.PEforPC;
 import CountryGamer_PEforPC.Blocks.TileEnt.TileEntityReactor;
 import cpw.mods.fml.relauncher.Side;

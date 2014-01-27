@@ -1,6 +1,6 @@
 package CountryGamer_PEforPC.Items;
 
-import CountryGamer_Core.ItemBase;
+import CountryGamer_Core.Items.ItemBase;
 
 public class ItemEQuartz extends ItemBase {
 

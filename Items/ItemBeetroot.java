@@ -1,6 +1,6 @@
 package CountryGamer_PEforPC.Items;
 
-import CountryGamer_Core.ItemFoodBase;
+import CountryGamer_Core.Items.ItemFoodBase;
 
 public class ItemBeetroot extends ItemFoodBase {
 

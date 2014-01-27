@@ -4,7 +4,7 @@ import net.minecraft.entity.player.EntityPlayer;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
 import net.minecraft.world.World;
-import CountryGamer_Core.ItemFoodBase;
+import CountryGamer_Core.Items.ItemFoodBase;
 
 public class ItemBeetrootSoup extends ItemFoodBase {
 

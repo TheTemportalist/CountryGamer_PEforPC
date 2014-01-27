@@ -1,7 +1,7 @@
 package CountryGamer_PEforPC.Items;
 
 import net.minecraft.block.Block;
-import CountryGamer_Core.ItemSeedBase;
+import CountryGamer_Core.Items.ItemSeedBase;
 import CountryGamer_PEforPC.PEforPC;
 
 public class ItemBeetrootSeed extends ItemSeedBase {
